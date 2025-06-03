@@ -2,7 +2,7 @@
 
 # Programsko inženjerstvo
 
-## Primjer kolokvija #3
+## Primjer kolokvija #2
 
 Kolokvij nosi ukupno **60 bodova** i piše se **120 minuta**.
 
