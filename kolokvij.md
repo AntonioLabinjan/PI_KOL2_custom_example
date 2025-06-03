@@ -6,7 +6,7 @@
 
 Kolokvij nosi ukupno **60 bodova** i piše se **120 minuta**.
 
-Preuzmite projekt s Merlina pod nazivom `primjer_treceg_kolokvija`.
+Preuzmite projekt s Merlina pod nazivom `primjer_drugog_kolokvija`.
 
 ---
 
